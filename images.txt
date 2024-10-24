@@ -6,3 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 canal/canal-server:v1.1.5
+canal/canal-admin:v1.1.5
