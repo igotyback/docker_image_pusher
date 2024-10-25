@@ -8,5 +8,5 @@
 canal/canal-server:v1.1.5
 canal/canal-admin:v1.1.5
 
-mysql/mysql:v5.7.41
-mysql/mysql:v8.0.11
+mysql:5.7.41
+mysql:8.0.11
