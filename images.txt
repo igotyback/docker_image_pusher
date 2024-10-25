@@ -7,3 +7,6 @@
 
 canal/canal-server:v1.1.5
 canal/canal-admin:v1.1.5
+
+mysql/mysql:5.7.44
+mysql/mysql:8.0.11
