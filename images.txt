@@ -14,3 +14,6 @@ docker.elastic.co/elasticsearch/elasticsearch:8.15.3
 
 yimik/kkfileview:latest
 
+
+redis:7.4
+
