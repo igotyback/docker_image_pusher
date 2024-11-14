@@ -17,3 +17,5 @@ yimik/kkfileview:latest
 
 redis:7.4
 
+ghcr.io/anduin2017/how-to-cook:latest
+
