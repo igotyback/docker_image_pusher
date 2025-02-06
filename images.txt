@@ -19,3 +19,6 @@ redis:7.4
 
 ghcr.io/anduin2017/how-to-cook:latest
 
+nginx:1.25.2
+nginx:latest
+
