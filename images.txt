@@ -14,11 +14,12 @@ docker.elastic.co/elasticsearch/elasticsearch:8.15.3
 
 yimik/kkfileview:latest
 
-
 redis:7.4
 
 ghcr.io/anduin2017/how-to-cook:latest
 
 nginx:1.25.2
 nginx:latest
+
+python:3.11.11
 
