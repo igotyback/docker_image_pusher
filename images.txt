@@ -22,4 +22,5 @@ nginx:1.25.2
 nginx:latest
 
 python:3.11.11
+python:3.12.9
 
