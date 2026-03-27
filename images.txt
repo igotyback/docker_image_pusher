@@ -4,29 +4,21 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-
 canal/canal-server:v1.1.5
 canal/canal-admin:v1.1.5
-
 mysql:5.7.41
 mysql:8.0.11
+mysql:8.0.37
 docker.elastic.co/elasticsearch/elasticsearch:8.15.3
-
 yimik/kkfileview:latest
-
 redis:7.4
-
 ghcr.io/anduin2017/how-to-cook:latest
-
 nginx:1.25.2
 nginx:latest
-
 python:3.11.11
 python:3.12.9
-
 nacos/nacos-server:v2.3.2
 nacos/nacos-server:v2.5.1
-mysql:8.0.37
 redis:7.2-alpine
 
 
