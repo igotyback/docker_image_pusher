@@ -25,4 +25,8 @@ python:3.11.11
 python:3.12.9
 
 nacos/nacos-server:v2.3.2
+nacos/nacos-server:v2.5.1
+mysql:8.0.37
+redis:7.2-alpine
+
 
