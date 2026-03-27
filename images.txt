@@ -24,3 +24,5 @@ nginx:latest
 python:3.11.11
 python:3.12.9
 
+nacos/nacos-server:v2.3.2
+
