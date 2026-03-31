@@ -23,5 +23,5 @@ redis:7.2-alpine
 redis:alpine3.23
 agentscope/copaw:latest
 centos:7
-docker.io/mariadb:11.4.4
+mariadb:11.4.4
 
