@@ -20,6 +20,7 @@ python:3.12.9
 nacos/nacos-server:v2.3.2
 nacos/nacos-server:v2.5.1
 redis:7.2-alpine
+redis:alpine3.23
 agentscope/copaw:latest
 
 
