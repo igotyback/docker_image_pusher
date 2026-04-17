@@ -24,4 +24,4 @@ redis:alpine3.23
 agentscope/copaw:latest
 centos:7
 mariadb:11.4.4
-postgres:16.6.0-bookworm
+postgres:16.6.0
