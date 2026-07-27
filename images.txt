@@ -25,3 +25,4 @@ agentscope/copaw:latest
 centos:7
 mariadb:11.4.4
 postgres:16.6.0
+lmxxf/vllm-deepseek-v4-dgx-spark:latest
